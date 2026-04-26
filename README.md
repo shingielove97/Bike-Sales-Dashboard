@@ -1,2 +1,5 @@
-# Bike-Sales-Dashboard
-An interactive Power BI dashboard analysing bike sales to identify key drivers of customer purchases. It explores the impact of age, income, gender, and commute distance on buying behaviour, providing insights for targeted marketing, customer segmentation, and data-driven business growth strategies.
+# Bike-Sales-Dashboard ( An interactive Dashboard in Excel)
+## Project Objective
+A Bike Sales Company aims to analyse bike sales data to identify key drivers of customer purchase behavior, evaluate performance across demographics, and generate insights that support targeted marketing, product positioning, and business expansion strategies.
+## Dataset used
+<a href="https://github.com/shingielove97/Bike-Sales-Dashboard/blob/main/Bike%20Sales%20Dashboard%201.xlsx">Dataset</a>
