@@ -11,3 +11,5 @@ A Bike Sales Company aims to analyse bike sales data to identify key drivers of 
 5. Which customer segments present the highest growth potential?
 6. What differentiates buyers vs non-buyers?
 ## Dashboard
+<img width="1006" height="630" alt="Bike sales" src="https://github.com/user-attachments/assets/e276eb80-df9c-42aa-ab2b-d5897ea9ccee" />
+
