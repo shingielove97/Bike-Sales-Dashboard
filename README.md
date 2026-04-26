@@ -10,3 +10,4 @@ A Bike Sales Company aims to analyse bike sales data to identify key drivers of 
 4. How do demographic factors (marital status, education, region) impact buying behavior?
 5. Which customer segments present the highest growth potential?
 6. What differentiates buyers vs non-buyers?
+## Dashboard
