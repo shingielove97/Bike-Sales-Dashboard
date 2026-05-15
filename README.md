@@ -47,8 +47,6 @@ Premium offerings (higher-income customers)
 
 ## Conclusion
 1. Core target market: Middle-aged, mid-income commuters
-2. Growth opportunity lies in untapped segments:
-3. Youth market
-4. High-income customers
-5. Data-driven marketing and segmentation will improve conversion and expansion strategies
+2. Growth opportunity lies in untapped segments: Youth market and High-income customers
+3. Data-driven marketing and segmentation will improve conversion and expansion strategies
 
